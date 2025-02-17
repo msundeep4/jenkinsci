@@ -1,0 +1,12 @@
+{
+  "name": "Sundeep Mulampaka Organization",
+  "description": "Sundeep Mulampaka Organization CI starter workflow.",
+  "categories": [
+    "Go"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
